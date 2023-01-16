@@ -1,0 +1,17 @@
+C:\Users\pikas\OneDrive\デスクトップ\TODO\TODO\bin\Debug\net7.0-windows\TODO.exe
+C:\Users\pikas\OneDrive\デスクトップ\TODO\TODO\bin\Debug\net7.0-windows\TODO.deps.json
+C:\Users\pikas\OneDrive\デスクトップ\TODO\TODO\bin\Debug\net7.0-windows\TODO.runtimeconfig.json
+C:\Users\pikas\OneDrive\デスクトップ\TODO\TODO\bin\Debug\net7.0-windows\TODO.dll
+C:\Users\pikas\OneDrive\デスクトップ\TODO\TODO\bin\Debug\net7.0-windows\TODO.pdb
+C:\Users\pikas\OneDrive\デスクトップ\TODO\TODO\obj\Debug\net7.0-windows\TODO.csproj.AssemblyReference.cache
+C:\Users\pikas\OneDrive\デスクトップ\TODO\TODO\obj\Debug\net7.0-windows\TODO.csproj.GenerateResource.cache
+C:\Users\pikas\OneDrive\デスクトップ\TODO\TODO\obj\Debug\net7.0-windows\TODO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pikas\OneDrive\デスクトップ\TODO\TODO\obj\Debug\net7.0-windows\TODO.AssemblyInfoInputs.cache
+C:\Users\pikas\OneDrive\デスクトップ\TODO\TODO\obj\Debug\net7.0-windows\TODO.AssemblyInfo.cs
+C:\Users\pikas\OneDrive\デスクトップ\TODO\TODO\obj\Debug\net7.0-windows\TODO.csproj.CoreCompileInputs.cache
+C:\Users\pikas\OneDrive\デスクトップ\TODO\TODO\obj\Debug\net7.0-windows\TODO.dll
+C:\Users\pikas\OneDrive\デスクトップ\TODO\TODO\obj\Debug\net7.0-windows\refint\TODO.dll
+C:\Users\pikas\OneDrive\デスクトップ\TODO\TODO\obj\Debug\net7.0-windows\TODO.pdb
+C:\Users\pikas\OneDrive\デスクトップ\TODO\TODO\obj\Debug\net7.0-windows\TODO.genruntimeconfig.cache
+C:\Users\pikas\OneDrive\デスクトップ\TODO\TODO\obj\Debug\net7.0-windows\ref\TODO.dll
+C:\Users\pikas\OneDrive\デスクトップ\TODO\TODO\obj\Debug\net7.0-windows\TODO.MainForm.resources
